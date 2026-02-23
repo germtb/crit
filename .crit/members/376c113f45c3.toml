@@ -1,0 +1,10 @@
+[member]
+name = "ger"
+public_key = """
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEApMARe0CzNPQHlfP2pjN0iCgtoMQ
+a5osI+pp725cpDcTBs9Vyi2j19VH/EZJD9LZ6FL1BjjS5b/HlgykThrf0Q==
+-----END PUBLIC KEY-----
+"""
+joined_epoch = 0
+added_by = "self"
