@@ -1,0 +1,10 @@
+[member]
+name = "supertest"
+public_key = """
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEA0ijp4T4nWNz+cSNv/OlFDLLXTDO
+5OBGaZQJ7uxNQR1gpyBoVadPSCrbecJYT7BDeEUa5YTPnAzOIL7bARCWsA==
+-----END PUBLIC KEY-----
+"""
+joined_epoch = 3
+added_by = "376c113f45c3"
